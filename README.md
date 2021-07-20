@@ -14,7 +14,7 @@ Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
 Para executar o projeto no terminal, digite o seguinte comando:
 
 ```shell script
-mvn spring-boot:run 
+graddle spring-boot:run 
 ```
 
 Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
